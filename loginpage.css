@@ -133,8 +133,8 @@ body
 
 .theme
 {
-    position: relative;
-    right: -20vw;
+    position: absolute;
+    right: 15px;
     padding: 10px;
     background:#fff;
     display: flex;
